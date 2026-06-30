@@ -220,7 +220,7 @@ pip install -r requirements.txt
 Open and execute:
 
 ```text
-2025_04_23_EDII_Iris.ipynb
+iris-decision-tree-eda-interpretability.ipynb
 ```
 
 The notebook will run data quality checks, EDA, Decision Tree training, validation, confusion matrix, feature importance diagnostics, pruning analysis, decision-path diagnostics, misclassified sample inspection, and entropy analysis.
